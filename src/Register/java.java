@@ -9,5 +9,7 @@ package Register;
  * @author RC_Student_lab
  */
 public class java {
-    
+    public static void display(){
+        //method
+    }
 }

@@ -8,13 +8,15 @@ package login.java;
  *
  * @author RC_Student_lab
  */
-public class LoginJava {
+public class Login {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("hello");
     }
     
 }
